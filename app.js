@@ -1,7 +1,7 @@
 // Configuration
 const CONFIG = {
     // GitHub API endpoints
-    GITHUB_REPO: 'KarstAgent/openclaw-workspace', // Change this to your actual repo
+    GITHUB_REPO: 'karstagent/openclaw-workspace', // Change this to your actual repo
     GITHUB_BRANCH: 'main',
     
     // Files to fetch
