@@ -10,8 +10,8 @@ const CONFIG = {
         HEARTBEAT: 'memory/heartbeat-state.json',
     },
     
-    // Update interval (ms) - 2 minutes to avoid GitHub API rate limits (60/hour)
-    REFRESH_INTERVAL: 120000,
+    // Update interval (ms) - 10 seconds for real-time monitoring
+    REFRESH_INTERVAL: 10000,
     
     // Password (stored in localStorage after first auth)
     PASSWORD: 'karst2026', // Change this!
